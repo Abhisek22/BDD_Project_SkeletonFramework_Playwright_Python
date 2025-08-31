@@ -1,0 +1,2 @@
+# BDD_Project_SkeletonFramework_Playwright_Python
+BDD Playwright Python POM Framework
